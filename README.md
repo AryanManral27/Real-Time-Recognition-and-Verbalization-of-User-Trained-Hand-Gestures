@@ -1,4 +1,4 @@
-# ISL Word-Level Hand Sign Recognition (Custom Data)
+# Real-Time Recognition and Verbalization of User-Trained Hand Gestures
 
 This project allows you to collect custom Indian Sign Language (ISL) gestures using your webcam and recognize them in real time using a machine learning model.
 
