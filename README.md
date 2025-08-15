@@ -1,9 +1,10 @@
-# Real-Time Recognition and Verbalization of User-Trained Hand Gestures
+# ✌️ Real-Time Recognition and Verbalization of User-Trained Hand Gestures
 
 This project is a real-time ISL hand gesture recognition system using MediaPipe and a Random Forest model trained on custom data to predict gestures like Hello, Yes, and I Love You. It provides both text and voice feedback via Pygame, enabling accessible communication for people with hearing or speech impairments.
+
 ---
 
-## ⚡ Core Features
+## 🎯 Core Features
 - Custom Gesture Collection – Capture hand landmark data for any ISL sign (e.g., Hello, Thank You).
 - User-Trained Model – Train a Random Forest classifier on your own collected gesture dataset.
 - Real-Time Gesture Prediction – Recognize gestures instantly using MediaPipe for 3D hand landmark extraction.
